@@ -2,7 +2,7 @@ import styles from './page.module.css'
 
 export default function Auth() {
     function handleSubmit() {
-
+        console.log("nothing");
     }
 
     return (
