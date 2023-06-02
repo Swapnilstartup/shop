@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-       Welcome to My Shop
+       <h2>Welcome to My Shop</h2>
       </div>
     </main>
   )
